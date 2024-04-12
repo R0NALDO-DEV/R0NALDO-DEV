@@ -9,7 +9,12 @@
 ## Principais Tecnologias e Ferramentas
 
 - [Python](#)
+- JavaScript
+- Css
+- HTML5
 - [Visual Studio Code](#)
+- Node.js
+  
   
 ## Tecnologias que eu uso no meu dia
 
