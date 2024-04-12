@@ -30,7 +30,7 @@
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=R0NALD00W&show_icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=R0NALDO-DEV&show_icons=true&theme=dark)
 
 ## Contato
 
